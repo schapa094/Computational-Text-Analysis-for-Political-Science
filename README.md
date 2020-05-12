@@ -1,4 +1,4 @@
-# Basics of Text Analysis for Political Science
+# Computational Text Analysis for Political Science
 
 This class is an online course offered by the University of Houston's Department of Political Science.
 Slides and Code for the course are going to be hosted in this repository.
