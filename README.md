@@ -1,6 +1,6 @@
 # Computational-Text-Analysis-for-Political-Science
 
-This is an online grad course that taught at the University of Houston's Department of Political Science.
+This is an online grad course taught at the University of Houston's Department of Political Science.
 Lectures will be lead by Professor Nikolay Marinov (University of Houston), Coding Sessions by Ashrakat Elshehawy (University of Oxford).
 
 ## Session 1:
@@ -25,25 +25,25 @@ Lectures will be lead by Professor Nikolay Marinov (University of Houston), Codi
 
 ## Session 3:
 
-*Loops
+**Loops**
   * for loops
   * if, else, elif loops - conditional loops
   * while loops
   * continue and break commands
 
-*Appending Lists
+**Appending Lists**
 
-*Defining Functions
+**Defining Functions**
 
-*Revise list comprehension
+**Revise list comprehension**
 
-*Join command
+**Join command**
 
-*Opening, Closing, Updating text files
+**Opening, Closing, Updating text files**
   * Python inbuilt open command
   * codecs library
 
-*Basic Text Processing Operations
+**Basic Text Processing Operations**
   * look for words
   * count words
   * remove punctuation
@@ -51,10 +51,10 @@ Lectures will be lead by Professor Nikolay Marinov (University of Houston), Codi
 
 ## Session 4:
 
-* Loading data into Python different ways
+* Loading data into Python in different ways (Codecs, OS, etc.)
 * Manipulating data structures
-* Removing stopwords
-* Building a Text- cleaning Pipeline
+* Removing **Stopwords**
+* Understanding and Building a Text-Cleaning Pipeline
 
 ## Session 5:
 
@@ -73,10 +73,32 @@ Extra
 * More Visualization Methods
 
 ## Session 7:
+
+* Adding to the NLP Pipeline: **Lemmatization**
+* Adding to the NLP Pipeline: **Stemming **
+
 ## Session 8:
+
+* Adding to the NLP Pipeline: **Pos-Tagging **
+* Adding to the NLP Pipeline: **Named Entity Recognition (NER)**
+* Senses
+* Entity Linking
+
 ## Session 9:
+
 ## Session 10:
+
+**Unsupervised Techniques**
+* Clustering
+* Topic-Modelling
+
 ## Session 11:
+
+**Supervised Machine Learning Techniques**:
+* Classification (Naive Bayes, Random Forest, Logistic, K
+* Evaluation Methods of Classification (Precision, Recal, F1 Score, K-fold
+
+
 ## Session 12:
 
 * Different Ways to Approach A Sentiment Analysis Task
