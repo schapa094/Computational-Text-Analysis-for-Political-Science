@@ -86,6 +86,9 @@ Extra
 
 ## Session 9:
 
+* **Word-Embeddings and Vector Space Representation**
+* Cosine-Similarity
+
 ## Session 10:
 
 **Unsupervised Techniques**
@@ -95,19 +98,27 @@ Extra
 ## Session 11:
 
 **Supervised Machine Learning Techniques**:
-* Classification (Naive Bayes, Random Forest, Logistic, K
-* Evaluation Methods of Classification (Precision, Recal, F1 Score, K-fold
+* **Classification** 
+  * Naive Bayes
+  * Random Forest
+  * Logistic
+  * K-Neighbors
+  * Support Vector Machine
+* Evaluation Methods of Classification:
+  * Precision, Recall, F1 Score,
+  * Confusion Matrices
+  * Cross-Validation
 
 
 ## Session 12:
 
-* Different Ways to Approach A Sentiment Analysis Task
+* Different Ways to Approach A **Sentiment Analysis Task**
   * Classification
-  *
+  * Rule-Based Sentiment Analysis
 
 ## Session 13:
 
-* Twitter Scraping Mini Session
+* **Twitter** Scraping and Data Cleaning Mini Session
 
 
 
