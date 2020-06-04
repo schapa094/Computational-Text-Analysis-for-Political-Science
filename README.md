@@ -75,11 +75,11 @@ Extra
 ## Session 7:
 
 * Adding to the NLP Pipeline: **Lemmatization**
-* Adding to the NLP Pipeline: **Stemming **
+* Adding to the NLP Pipeline: **Stemming**
 
 ## Session 8:
 
-* Adding to the NLP Pipeline: **Pos-Tagging **
+* Adding to the NLP Pipeline: **Pos-Tagging**
 * Adding to the NLP Pipeline: **Named Entity Recognition (NER)**
 * Senses
 * Entity Linking
