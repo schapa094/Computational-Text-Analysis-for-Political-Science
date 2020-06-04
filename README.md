@@ -1,6 +1,7 @@
 # Computational-Text-Analysis-for-Political-Science
 
-This is an online grad course taught at the University of Houston's Department of Political Science. <br\>
+This is an online grad course taught at the University of Houston's Department of Political Science. 
+
 Lectures will be lead by Professor **Nikolay Marinov** (University of Houston), Coding Sessions by **Ashrakat Elshehawy** (University of Oxford).
 
 ## Session 1:
