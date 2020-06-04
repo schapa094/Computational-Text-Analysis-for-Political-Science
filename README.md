@@ -25,25 +25,25 @@ Lectures will be lead by Professor Nikolay Marinov (University of Houston), Codi
 
 ## Session 3:
 
-**Loops**
+* **Loops**
   * for loops
   * if, else, elif loops - conditional loops
   * while loops
   * continue and break commands
 
-**Appending Lists**
+* **Appending Lists**
 
-**Defining Functions**
+* **Defining Functions**
 
-**Revise list comprehension**
+* **Revise list comprehension**
 
-**Join command**
+* **Join command**
 
-**Opening, Closing, Updating text files**
+* **Opening, Closing, Updating text files**
   * Python inbuilt open command
   * codecs library
 
-**Basic Text Processing Operations**
+* **Basic Text Processing Operations**
   * look for words
   * count words
   * remove punctuation
