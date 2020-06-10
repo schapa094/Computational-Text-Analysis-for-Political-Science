@@ -16,7 +16,7 @@ Lectures will be lead by Professor **Nikolay Marinov** (University of Houston), 
 * Transformation of Objects
 * Input function
 
-## Session 2:
+## [Session 2](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%202.ipynb):
 
 * Understanding Python Strings
 * Combining Objects
