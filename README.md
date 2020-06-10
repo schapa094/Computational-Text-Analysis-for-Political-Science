@@ -24,7 +24,7 @@ Lectures will be lead by Professor **Nikolay Marinov** (University of Houston), 
 * Data Structures and Containers
 * List Comprehension
 
-## Session 3:
+## [Session 3](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%203.ipynb):
 
 * **Loops**
   * for loops
