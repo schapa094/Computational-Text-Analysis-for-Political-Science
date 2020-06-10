@@ -4,7 +4,7 @@ This is an online grad course taught at the University of Houston's Department o
 
 Lectures will be lead by Professor **Nikolay Marinov** (University of Houston), Coding Sessions by **Ashrakat Elshehawy** (University of Oxford).
 
-## Session 1:
+## [Session 1](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%201.ipynb):
 
 * Github
 * Jupyter Notebooks
