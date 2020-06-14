@@ -50,21 +50,21 @@ Lectures will be lead by Professor **Nikolay Marinov** (University of Houston), 
   * remove punctuation
   * remove digits
 
-## Session 4:
+## [Session 4](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%204.ipynb):
 
 * Loading data into Python in different ways (Codecs, OS, etc.)
 * Manipulating data structures
 * Removing **Stopwords**
 * Understanding and Building a Text-Cleaning Pipeline
 
-## Session 5:
+## [Session 5](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%205.ipynb):
 
 * Managing Data with **Pandas**
 * Manipulating Data with Pandas
 * Mini Data Visualization Session
 * Short intro to Numpy
 
-## Session 6:
+## [Session 6](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%206.ipynb):
 
 * **Natural Language Processing Cleaning Pipeline**
 * Adding to the NLP Pipeline: **Tokenization**
@@ -73,30 +73,30 @@ Extra
 * Lambda Operator
 * More Visualization Methods
 
-## Session 7:
+## [Session 7](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%207.ipynb):
 
 * Adding to the NLP Pipeline: **Lemmatization**
 * Adding to the NLP Pipeline: **Stemming**
 
-## Session 8:
+## [Session 8](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%208.ipynb):
 
 * Adding to the NLP Pipeline: **Pos-Tagging**
 * Adding to the NLP Pipeline: **Named Entity Recognition (NER)**
 * Senses
 * Entity Linking
 
-## Session 9:
+## [Session 9](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%209.ipynb):
 
 * **Word-Embeddings and Vector Space Representation**
 * Cosine-Similarity
 
-## Session 10:
+## [Session 10](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%2010.ipynb):
 
 **Unsupervised Techniques**
 * Clustering
 * Topic-Modelling
 
-## Session 11:
+## [Session 11](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%2011.ipynb):
 
 **Supervised Machine Learning Techniques**:
 * **Classification** 
@@ -111,13 +111,13 @@ Extra
   * Cross-Validation
 
 
-## Session 12:
+## [Session 12](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%2012.ipynb):
 
 * Different Ways to Approach A **Sentiment Analysis Task**
   * Classification
   * Rule-Based Sentiment Analysis
 
-## Session 13:
+## [Session 13](https://github.com/aelshehawy/Computational-Text-Analysis-for-Political-Science/blob/master/Python%20code/In%20Class%20Work/Session%2013%20-%20Twitter%20Mini%20Session.ipynb):
 
 * **Twitter** Scraping and Data Cleaning Mini Session
 
